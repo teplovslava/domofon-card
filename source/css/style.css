@@ -610,7 +610,7 @@ body{
     line-height: 140%;
     color: #000000;
     margin-bottom: 60px;
-    width: 67%;
+    width: 73%;
 }
 
 .install-text{
@@ -1336,6 +1336,10 @@ body{
     .menu{
         background-image: none;
     }
+
+    .install-head {
+        width: 84%;
+    }
 }
 
 
@@ -1905,6 +1909,10 @@ body{
 
     .header__left-part{
         display: none;
+    }
+
+    .install-head {
+        width: 100%;
     }
 
     .header{
@@ -2683,6 +2691,10 @@ body{
     .header-bottom {
         padding: 0;
         width: 100%;
+    }
+
+    .install-head {
+        font-size: 18px;
     }
 
     .header {
